@@ -60,7 +60,6 @@ class MainActivity : ComponentActivity() {
     }
 }
 
-@SuppressLint("UnusedMaterial3ScaffoldPaddingParameter")
 @Composable
 fun PhoneBook() {
     val contactsList = remember { mutableStateListOf<Contact>() }
