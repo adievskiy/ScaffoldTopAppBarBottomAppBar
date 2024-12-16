@@ -1,6 +1,5 @@
 package com.example.scaffoldtopappbarbottomappbar
 
-import android.annotation.SuppressLint
 import android.app.Activity
 import android.os.Bundle
 import android.widget.Toast
